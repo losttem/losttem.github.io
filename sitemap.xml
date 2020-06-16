@@ -3,18 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://losttem.github.io/posts/hello-world/</loc>
-    <lastmod>2020-06-13T22:50:54+08:00</lastmod>
+    <loc>http://losttem.github.io/posts/first/</loc>
+    <lastmod>2020-06-16T16:45:44+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://losttem.github.io/</loc>
-    <lastmod>2020-06-13T22:50:54+08:00</lastmod>
+    <lastmod>2020-06-16T16:46:09+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://losttem.github.io/posts/</loc>
-    <lastmod>2020-06-13T22:50:54+08:00</lastmod>
+    <lastmod>2020-06-16T16:46:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://losttem.github.io/posts/hello-world/</loc>
+    <lastmod>2020-06-16T16:46:09+08:00</lastmod>
   </url>
   
   <url>
